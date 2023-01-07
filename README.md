@@ -8,13 +8,17 @@
 
 📚 Sempre disposto a aprender e a compartilhar experiências
 
-### Actualmente trabalhando em Web
+### Actualmente trabalhando com Tecnologias Web
 
-
-
-    
-
-
+## 🛠 Habilidades
+   - Javascript
+   - Typescript
+   - ReactJS
+   - SCSS
+   - NodeJS
+   - Java
+   - MySQL
+   
 ## 🔗 Redes sociais
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-neto-aa2481225/)
 
