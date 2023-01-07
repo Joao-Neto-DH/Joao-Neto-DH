@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**Joao-Neto-DH/Joao-Neto-DH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou o João Neto, seja bem-vindo ao meu Github! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+💻 Engenheiro Informático e Entusiasta por Tecnologia
+
+📚 Sempre disposto a aprender e a compartilhar experiências
+
+### Actualmente trabalhando em Web
+
+
+
+    
+
+
+## 🔗 Redes sociais
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-neto-aa2481225/)
+
+[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100008974907202)
+
+[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=dark)](mailto:joaolima882018@gmail.com)
+
+[![outlook](https://img.shields.io/badge/outlook-1DA1F2?style=for-the-badge&logo=outlook&logoColor=dark)](mailto:joaoneto222022@outlook.com)
