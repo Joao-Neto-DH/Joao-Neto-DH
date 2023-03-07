@@ -12,14 +12,7 @@
 
 ### Actualmente trabalhando com Tecnologias Web
 
-## 🛠 Habilidades
-   - Javascript
-   - Typescript
-   - ReactJS
-   - SCSS
-   - NodeJS
-   - Java
-   - MySQL
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-neto-dh&layout=compact)](https://github.com/Joao-Neto-DH)
    
 ## 🔗 Redes sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-neto-aa2481225/)
