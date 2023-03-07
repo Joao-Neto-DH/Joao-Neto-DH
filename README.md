@@ -8,6 +8,8 @@
 
 📚 Sempre disposto a aprender e a compartilhar experiências
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-neto-dh&show_icons=true&theme=radical)
+
 ### Actualmente trabalhando com Tecnologias Web
 
 ## 🛠 Habilidades
